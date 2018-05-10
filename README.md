@@ -1,4 +1,3 @@
-# ECS Reference Architecture: Continuous Deployment
 
 The ECS Continuous Deployment reference architecture demonstrates how to achieve
 [continuous deployment][continuous-deployment] of an application to Amazon
