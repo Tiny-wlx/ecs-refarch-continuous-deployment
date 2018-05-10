@@ -1,5 +1,3 @@
-
-The ECS Continuous Deployment reference architecture demonstrates how to achieve
 [continuous deployment][continuous-deployment] of an application to Amazon
 Elastic Container Service (Amazon ECS) using AWS CodePipeline and AWS
 CodeBuild. With continuous deployment, software revisions are deployed to a
